@@ -1,0 +1,2 @@
+[GET] http://localhost:3000/map => [500] Internal Server Error
+[GET] http://localhost:3000/_next/static/development/_devMiddlewareManifest.json => [200] OK
